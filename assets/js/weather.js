@@ -92,7 +92,6 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
     Ciudades.addEventListener
 
-    //CARGAN LAS CIUDADES DEL ARREGLO weather_data
     while (Ciudades.firstChild) {
         Ciudades.removeChild(Ciudades.firstChild);
     }
